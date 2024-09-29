@@ -1,0 +1,12 @@
+C:\Users\salih\source\repos\EmlakUygulaması\WindowsFormsApp\bin\Release\WindowsFormsApp.exe.config
+C:\Users\salih\source\repos\EmlakUygulaması\WindowsFormsApp\bin\Release\WindowsFormsApp.exe
+C:\Users\salih\source\repos\EmlakUygulaması\WindowsFormsApp\bin\Release\WindowsFormsApp.pdb
+C:\Users\salih\source\repos\EmlakUygulaması\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\salih\source\repos\EmlakUygulaması\WindowsFormsApp\obj\Release\WindowsFormsApp.GirisEkrani.resources
+C:\Users\salih\source\repos\EmlakUygulaması\WindowsFormsApp\obj\Release\WindowsFormsApp.Form2.resources
+C:\Users\salih\source\repos\EmlakUygulaması\WindowsFormsApp\obj\Release\WindowsFormsApp.Form3.resources
+C:\Users\salih\source\repos\EmlakUygulaması\WindowsFormsApp\obj\Release\WindowsFormsApp.Properties.Resources.resources
+C:\Users\salih\source\repos\EmlakUygulaması\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\salih\source\repos\EmlakUygulaması\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\EmlakUygulaması\WindowsFormsApp\obj\Release\WindowsFormsApp.exe
+C:\Users\salih\source\repos\EmlakUygulaması\WindowsFormsApp\obj\Release\WindowsFormsApp.pdb

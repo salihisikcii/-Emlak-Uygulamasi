@@ -1,0 +1,6 @@
+500,Kiralık,Aktif,Altın Başak,15000,5,7,145,12,Konya,Selçuklu,Bahceli,Havzan Mah. Yeni elektrik cd. 4/5
+502,Kiralık,Pasif,Bitki,15000,5,7,145,5,Konya,Selçuklu,Bahceli,Havzan Mah. Yeni elektrik cd. 4/5
+504,Kiralık,Aktif,Vezir,15000,5,7,13,21,Konya,Selçuklu,Bahceli,Havzan Mah. Yeni elektrik cd. 4/5
+505,Kiralık,Aktif,Beyaz,22000,8,5,321,0,Ankara,Mamak,Dubleks,afdssdafsadfsdf
+503,Kiralık,Aktif,adsfsdaf,12312312,4,3,165,0,Ankara,Mamak,Daire,dsfdsafsdf
+505,Kiralık,Aktif,BeyazRRRR,22000,8,5,321,0,Ankara,Mamak,Dubleks,afdssdafsadfsdf

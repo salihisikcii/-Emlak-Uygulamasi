@@ -1,0 +1,9 @@
+C:\Users\salih\source\repos\EmlakUygulaması\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\salih\source\repos\EmlakUygulaması\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\salih\source\repos\EmlakUygulaması\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\salih\source\repos\EmlakUygulaması\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\salih\source\repos\EmlakUygulaması\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\salih\source\repos\EmlakUygulaması\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\EmlakUygulaması\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\salih\source\repos\EmlakUygulaması\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\salih\source\repos\EmlakUygulaması\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
